@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+THis is Git Hub Learning Area
 Use the left arrow to go back
